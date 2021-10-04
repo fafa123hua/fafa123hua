@@ -4,3 +4,5 @@
 </p>
 
 ![info](https://github-readme-stats.vercel.app/api?username=fafa123hua&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
+[![常用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=fafa123hua&layout=compact&locale=cn)](#)
