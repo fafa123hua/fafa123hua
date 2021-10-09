@@ -26,4 +26,5 @@ I'm Zhang Qihua, nickname is “Elbert”. You can contact me by these way below
 #### 统计数据 | statistics
 
 ![info](https://github-readme-stats.vercel.app/api?username=fafa123hua&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
-[![常用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=fafa123hua&layout=compact&locale=cn)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fafa123hua&layout=compact)](https://github.com/fafa123hua/github-readme-stats)
+
