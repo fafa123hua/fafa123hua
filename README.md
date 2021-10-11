@@ -4,7 +4,6 @@
 </p>
 
 #### 联系方式 | contact way
-
 I'm Zhang Qihua, nickname is “Elbert”. You can contact me by these way below:
 
 *  QQ: 648075392
@@ -26,5 +25,7 @@ I'm Zhang Qihua, nickname is “Elbert”. You can contact me by these way below
 #### 统计数据 | statistics
 
 ![info](https://github-readme-stats.vercel.app/api?username=fafa123hua&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fafa123hua&layout=compact)](https://github.com/fafa123hua/github-readme-stats)
 
+[![fafa123hua's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fafa123hua&theme=xcode)](https://github.com/fafa123hua)
