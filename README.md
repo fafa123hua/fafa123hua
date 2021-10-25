@@ -28,4 +28,4 @@ I'm Zhang Qihua, nickname is “Elbert”. You can contact me by these way below
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fafa123hua&layout=compact)](https://github.com/fafa123hua/github-readme-stats)
 
-[![fafa123hua's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fafa123hua&theme=xcode)](https://github.com/fafa123hua)
+<!-- [![fafa123hua's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fafa123hua&theme=xcode)](https://github.com/fafa123hua) -->
