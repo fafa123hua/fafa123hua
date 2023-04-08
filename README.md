@@ -7,9 +7,8 @@
 #### 联系方式 | contact way
 I'm Zhang Qihua, nickname is “Elbert”. You can contact me by these way below:
 
-*  QQ: 648075392
-*  E-Mail: 648075392@qq.com
-*  WeXin: Elbert-hua
+*  QQ: 3524435813
+*  E-Mail: 3524435813@qq.com
 
 #### Platform&Tools
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
@@ -29,4 +28,4 @@ I'm Zhang Qihua, nickname is “Elbert”. You can contact me by these way below
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fafa123hua&layout=compact)](https://github.com/fafa123hua/github-readme-stats)
 
-[![fafa123hua's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fafa123hua&theme=xcode)](https://github.com/fafa123hua)
+<!-- [![fafa123hua's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fafa123hua&theme=xcode)](https://github.com/fafa123hua) -->
